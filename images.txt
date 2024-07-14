@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 mysql:8.0.38
+requarks/wiki:2.5.303
