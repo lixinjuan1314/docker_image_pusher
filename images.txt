@@ -8,3 +8,4 @@
 mysql:8.0.38
 requarks/wiki:2.5.303
 halohub/halo-pro:2.17.1
+outlinewiki/outline:0.77.3
